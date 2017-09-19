@@ -231,7 +231,6 @@ hr {
     color:#393939;
     padding-left: 21px;
 }
-
 #sidebar .nav > li> .menu-has-child {
     /* background-color:#3c3c3c; */
     color:#ccc;
@@ -856,7 +855,7 @@ li.menu-opened + ul{
 
 #sidebar .nav > li a{
 	text-align: initial;
-	padding-left: 10px;
+	padding-left: 20px;
 }
 
 #sidebar .sidebar-navigation-container > li > a {
