@@ -229,6 +229,7 @@ hr {
 #sidebar .nav li.menu-selected a{
     background-color:#f7ad41 !important;
     color:#393939;
+    padding-left: 21px;
 }
 
 #sidebar .nav > li> .menu-has-child {
@@ -2485,3 +2486,15 @@ pre, .signature-nav>li>a {
 /* custom end */
 
 /* rest api */
+
+.content p {
+  overflow: hidden;
+}
+
+.content p img {
+  float: right;
+  margin: 0 0 0 15px;
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+}
