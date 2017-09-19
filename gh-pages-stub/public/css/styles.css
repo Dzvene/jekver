@@ -229,6 +229,7 @@ hr {
 #sidebar .nav li.menu-selected a{
     background-color:#f7ad41 !important;
     color:#393939;
+    padding-left: 21px;
 }
 #sidebar .nav > li> .menu-has-child {
     /* background-color:#3c3c3c; */
